@@ -5,6 +5,6 @@
 main()
 {
 	printf("hello,world\n");
-	printf("hellow,qiang\n");
+	printf("hello,qiang\n");
 	//123
 }
