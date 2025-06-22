@@ -18,5 +18,13 @@
     <ClCompile Include="main.c">
       <Filter>资源文件</Filter>
     </ClCompile>
+    <ClCompile Include="qiangFunc.c">
+      <Filter>资源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="qiangFunc.h">
+      <Filter>资源文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
